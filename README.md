@@ -1,1 +1,1 @@
-# TrashStalk
+# TrashStalk 1.0
